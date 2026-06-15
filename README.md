@@ -53,6 +53,7 @@ streamlit run src/dashboard/app.py
 
 - football-data.co.uk (historische Liga-Spielergebnisse und Quoten)
 - Kaggle (Datensätze zu internationalen Spielen / WM)
+- https://www.kaggle.com/datasets/patateriedata/all-international-football-results
 - Elo-Ratings (eloratings.net oder clubelo.com) für internationale Teamstärken
 
 ## Modelle
@@ -64,3 +65,4 @@ streamlit run src/dashboard/app.py
 ## Team
 
 - TODO: Namen eintragen
+- Fabian Jendrzej
