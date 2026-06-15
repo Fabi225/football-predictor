@@ -1,0 +1,20 @@
+# Daten und Analyse
+pandas
+numpy
+
+# Visualisierung
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Dashboard
+streamlit
+
+# Sonstiges
+jupyter
+joblib
+requests
